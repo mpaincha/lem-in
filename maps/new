@@ -1,0 +1,63 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v140)
+"   /nfs/2015/m/mpaincha/Github/42_ok/lem_in/maps
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:exec
+" ============================================================================
+../
+error/
+todo/
+._Errorants1.map
+._Errorants2.map
+._Errorants3.map
+._Errornosortie1.map
+._Errorpipe2.map
+._Errorroom1.map
+._Errorroom2.map
+._Errorroom3.map
+._Errorstart1.map
+._complexe.map
+._complexe2.map
+._noants.map
+._nofile.map
+._nofile2.map
+._noroom.map
+._sujet1.map
+._sujet2.map
+._sujet3.map
+._test.map
+._test2.map
+1
+2
+3
+4
+5
+6
+7
+Errorants1.map
+Errorants2.map
+Errorants3.map
+Errornosortie1.map
+Errorpipe2.map
+Errorroom1.map
+Errorroom2.map
+Errorroom3.map
+Errorstart1.map
+comp2
+complexe
+complexe.map
+complexe2.map
+easy
+fracass
+noants.map
+nofile.map
+nofile2.map
+noroom.map
+sujet1.map
+sujet2.map
+sujet3.map
+test.map
+test2.map
+.swp
+~
